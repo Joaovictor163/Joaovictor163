@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joaovictor163
 - 👀 I’m interested in ...HTML, CSS, JS, PYTHON
-- 🌱 I’m currently learning ... JS, HTML, CC, PYTHON
+- 🌱 I’m currently learning ... JS, HTML, CCS, PYTHON
 - 💞️ I’m looking to collaborate on ... several original and group projects
 - 📫 How to reach me ...
 
