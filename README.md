@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Joaovictor163
-- 👀 I’m interested in ...PYTHON AND SQL AND DATA ANALYSIS
-- 🌱 I’m currently learning ... PYTHON AND SQL
+- 👀 I’m interested in ...PYTHON AND SQL AND DATA ANALYSIS, HTML AND CSS
+- 🌱 I’m currently learning ... PYTHON AND SQL, HTML, CSS
 - 💞️ I’m looking to collaborate on ... several original and group projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... https://br.linkedin.com/in/jo%C3%A3o-victor-martins-ferreira-b8b8b52b1
 
 <!---
 Joaovictor163/Joaovictor163 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
