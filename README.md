@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning ... PYTHON AND SQL, HTML, CSS
 - 💞️ I’m looking to collaborate on ... several original and group projects
 - 📫 How to reach me ... 
+[![Seu nome de usuário do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuario)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Joaovictor163/Joaovictor163 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
