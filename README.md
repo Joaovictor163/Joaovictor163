@@ -28,3 +28,5 @@
 ## Mais sobre mim
 
 Sou um estudande de Análise e Desenvolvimento de Sistemas, estudando atualmente tecnologias para atuar no Back-End estou estudando Tecnologias como **Django**, **Flask** e criação de **APIs**. Também tenho interesse em aprender JavaScript para aumentar minhas habilidades 
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joaovictor163&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
